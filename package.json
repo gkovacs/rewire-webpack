@@ -23,7 +23,7 @@
   "license": "Unlicense",
   "dependencies": {
     "enhanced-resolve": "^0.9.1",
-    "webpack": "^1.12.6"
+    "webpack": "^2.2.0"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
